@@ -17,3 +17,9 @@ Key features:
 - **Scikit-Learn**: Model training and evaluation (Random Forest Classifier)
 - **yFinance API**: Historical data retrieval
 - **Matplotlib**: Data visualization and backtesting
+
+## Usage
+- **Data Retrieval**: Run the script to download historical data and create necessary features.
+- **Model Training**: Train the Random Forest Classifier on the processed dataset.
+- **Prediction**: Use the model to predict the next day's stock price movement (rise/fall).
+
